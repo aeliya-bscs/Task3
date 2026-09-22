@@ -1,3 +1,5 @@
+Hello!!
+
 Task 3 (Playwright Test Automation Assignment)
 Purpose: This document provides step-by-step instructions for setting up the environment, installing dependencies, and executing the Playwright automated test suite associated with the Task 3 assignment.
 
@@ -17,6 +19,7 @@ npx playwright test tests/testscript.spec.ts --headed
 
 This will run all configured test cases and generate the corresponding results.
 
+Thanks.
 Step 4: Generate and View the Test Report
 
 Upon completion of the test run, view the results via the Playwright HTML report by executing:
